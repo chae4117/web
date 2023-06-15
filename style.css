@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg00{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.bg01{background-image: url(img/layer1.png);}
+.bg02{background-image: url(img/layer2.png);}
+.bg03{background-image: url(img/layer3.png);}
+.bg04{background-image: url(img/layer4.png);}
